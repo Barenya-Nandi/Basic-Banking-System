@@ -1,0 +1,15 @@
+body{
+    background-image: url("bg_transact.jpg");
+    background-size: cover;
+    font-weight: 600;
+  }
+  .top{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    background-color: rgb(0 123 255 / 25%);
+  }
+  .mid{
+    margin: 50px 100px 0px 100px ;
+  }
